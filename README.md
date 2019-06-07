@@ -1,2 +1,2 @@
 # seanmichaelanderson.github.io
-Interactive Resumer
+Interactive Resume
